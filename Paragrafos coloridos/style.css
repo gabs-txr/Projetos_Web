@@ -1,13 +1,10 @@
-*{
-    margin: 0;
-}
-.Paragrafos1{
+.texto{
     margin: 40px;
     padding: 20px;
+}
+.Paragrafos-padrao{
     background-color:#F5F5F5;
 }
-.Paragrafos2{
-    margin: 40px;
-    padding: 20px;
+.Paragrafos-destacaado{
     background-color:#F0CCE2;
 }
